@@ -1,0 +1,11 @@
+CustomerID,Name,Age,Location,SignupDate
+1,Alice,29,Delhi,2022-01-31
+2,Bob,34,Mumbai,2022-02-28
+3,Charlie,22,Delhi,2022-03-31
+4,David,45,Bangalore,2022-04-30
+5,Eve,31,Chennai,2022-05-31
+6,Fay,38,Mumbai,2022-06-30
+7,Grace,27,Delhi,2022-07-31
+8,Heidi,24,Pune,2022-08-31
+9,Ivan,33,Kolkata,2022-09-30
+10,Judy,30,Hyderabad,2022-10-31

@@ -1,0 +1,11 @@
+CustomerID,Name,Age,Location,SignupDate,TotalSpent,AvgSpent,NumTransactions,AvgResolutionTime,AvgSatisfactionScore,Cluster
+1,Alice,29,Delhi,2022-01-31,420,210.0,2,2.0,4.0,0
+2,Bob,34,Mumbai,2022-02-28,280,140.0,2,1.0,5.0,0
+3,Charlie,22,Delhi,2022-03-31,610,305.0,2,4.0,3.0,1
+4,David,45,Bangalore,2022-04-30,230,115.0,2,3.0,4.0,1
+5,Eve,31,Chennai,2022-05-31,980,490.0,2,5.0,2.0,2
+6,Fay,38,Mumbai,2022-06-30,640,320.0,2,2.0,4.0,0
+7,Grace,27,Delhi,2022-07-31,490,245.0,2,1.0,5.0,0
+8,Heidi,24,Pune,2022-08-31,350,175.0,2,2.0,3.0,1
+9,Ivan,33,Kolkata,2022-09-30,415,207.5,2,3.0,2.0,1
+10,Judy,30,Hyderabad,2022-10-31,375,187.5,2,4.0,4.0,1

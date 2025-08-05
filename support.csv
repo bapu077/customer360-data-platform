@@ -1,0 +1,11 @@
+TicketID,CustomerID,Issue,ResolutionTimeDays,SatisfactionScore
+1001,1,Payment,2,4
+1002,2,Login,1,5
+1003,3,Shipping,4,3
+1004,4,Delay,3,4
+1005,5,Refund,5,2
+1006,6,Login,2,4
+1007,7,Support,1,5
+1008,8,Bug,2,3
+1009,9,Payment,3,2
+1010,10,Refund,4,4
